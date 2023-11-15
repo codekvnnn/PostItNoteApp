@@ -18,3 +18,7 @@ To run PostItNoteApp on your Mac, follow these steps:
    
    ```bash
    git clone [THIS GitHub repository]
+
+
+:Contributing:
+Contributions to the PostItNoteApp are welcome. Please ensure to follow the standard practices for contributing to repositories on GitHub.
